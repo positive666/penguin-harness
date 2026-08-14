@@ -1,0 +1,19 @@
+scripts/eval-tool-exposure.mjs
+  s_76166795cefda9::t_5907737952e5a2 200-211,222-226,236-238,250-258,262
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2f35ccd7256a758a4e4ea7b41a52a3a8328dc3ea",
+  "prompts": {},
+  "sessions": {
+    "s_76166795cefda9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ffe4b-b5bf-7430-a49d-d29d29094168",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rui Rui4 Cheng <chengrui4@lenovo.com>"
+    }
+  }
+}
